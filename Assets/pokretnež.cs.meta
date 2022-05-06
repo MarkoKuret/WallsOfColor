@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ea0d661b7106ca84b8aab533b424f2c9
+timeCreated: 1537725903
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Plava: {fileID: 2100000, guid: 6cf86597569de3f4dab131deae1ea99e, type: 2}
+  - Crvena: {fileID: 2100000, guid: 05bd0eba21c1df34587435324595b06f, type: 2}
+  - "\u017Duta": {fileID: 2100000, guid: 7700b3627d803744a95eab1e890869cf, type: 2}
+  - Zelena: {fileID: 2100000, guid: 9343c0f56e8f9004e8f92a82a912fc6d, type: 2}
+  - cube: {fileID: 23704126767929890, guid: 1ba889f121955f644ab1bd602ab51bca, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
